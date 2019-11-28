@@ -1,0 +1,5 @@
+nodemon: This process of stopping and restarting can get repetitive. 
+You can install the Nodemon package to avoid this process. With Nodemon 
+installed, you simply run the nodemon server.js command once, and it 
+will automatically restart your server each time you make a change to 
+your code.
